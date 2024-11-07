@@ -16,7 +16,7 @@ namespace WebAplicacionMVC.Models
 
         //prop + tab (para crear la linea con los atributos de la clase)
         [Required(ErrorMessage = "El nombre es obligatorio")]
-        public string Nombre { get; set; }
+        public string? Nombre { get; set; }
 
         [Required(ErrorMessage = "El telefono es obligatorio")]
         public string Telefono { get; set; }

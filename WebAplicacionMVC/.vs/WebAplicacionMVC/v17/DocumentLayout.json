@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Carpeta trabajo GIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\",
+  "WorkspaceRootPath": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|e:\\carpeta trabajo git\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|j:\\repositoriogit\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|e:\\carpeta trabajo git\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|j:\\repositoriogit\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Contacto.cs",
-              "DocumentMoniker": "E:\\Carpeta trabajo GIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Models\\Contacto.cs",
-              "RelativeDocumentMoniker": "WebAplicacionMVC\\Models\\Contacto.cs",
-              "ToolTip": "E:\\Carpeta trabajo GIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Models\\Contacto.cs",
-              "RelativeToolTip": "WebAplicacionMVC\\Models\\Contacto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:37:58.109Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:20:47.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Carpeta trabajo GIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Datos\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebAplicacionMVC\\Datos\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Carpeta trabajo GIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Datos\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebAplicacionMVC\\Datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:32:14.481Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:03:58.729Z",
               "EditorCaption": ""
             }
           ]
