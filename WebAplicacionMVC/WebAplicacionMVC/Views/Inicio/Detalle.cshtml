@@ -1,0 +1,44 @@
+﻿@model WebAplicacionMVC.Models.Contacto
+
+@{
+    ViewData["Title"] = "Detalle contactos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Contacto con .net 8</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="carcard-header bg-black">
+                <h3 class=" text-center text-white"> <strong>Editar de usuario</strong></h3>
+            </div>
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <strong>Nombre:</strong> @Html.DisplayFor(m => m.Nombre)
+                </li>
+                <li class="list-group-item">
+                    <strong>Telefono:</strong> @Html.DisplayFor(m => m.Telefono)
+                </li>
+                <li class="list-group-item">
+                    <strong>Celular:</strong> @Html.DisplayFor(m => m.Celular)
+                </li>
+                <li class="list-group-item">
+                    <strong>Email:</strong> @Html.DisplayFor(m => m.Email)
+                </li>
+                <li class="list-group-item">
+                    <strong>Fecha creacion:</strong> @Html.DisplayFor(m => m.FechaCreacion)
+                </li>
+
+            </ul>
+
+            <a asp-controller="Inicio" asp-action="Index">
+                <i class="fa fa-arrow-circle-left" aria-hidden="true"></i>
+            </a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+﻿@model WebAplicacionMVC.Models.Contacto
+
+@{
+    ViewData["Title"] = "Crear nuevo contactos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Contacto con .net 8</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="carcard-header bg-black">
+                <h3 class=" text-center text-white"> <strong>Crear de usuario</strong></h3>
+            </div>
+        </div>
+        <div class="card-body">
+            <form ASP-action="Crear" method="POST">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" placeholder="Ingresa el nombre" />
+                    <span asp-validation-for="Nombre" class="text-danger"> </span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Telefono" class="control-label"></label>
+                    <input asp-for="Telefono" class="form-control" placeholder="Ingresa el Telefono" />
+                    <span asp-validation-for="Telefono" class="text-danger"> </span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Celular" class="control-label"></label>
+                    <input asp-for="Celular" class="form-control" placeholder="Ingresa el Celular" />
+                    <span asp-validation-for="Celular" class="text-danger"> </span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" placeholder="Ingresa el Email" />
+                    <span asp-validation-for="Email" class="text-danger"> </span>
+                </div>
+
+                <div class="form-group mt-3">
+                    <button type="submit" class="btn btn-secondary d-block mx-auto">
+                        <i class="fa fa-user" aria-hidden="true"></i>Crear usuario
+                    </button>
+                </div>
+            </form>
+
+            <a asp-controller="Inicio" asp-action="Index">
+                <i class="fa fa-arrow-circle-left" aria-hidden="true" ></i>
+            </a>
+        </div>
+    </div>
+</div>

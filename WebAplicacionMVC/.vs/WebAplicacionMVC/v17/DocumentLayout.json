@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|j:\\repositoriogit\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|j:\\repositoriogit\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|j:\\repositoriogit\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|j:\\repositoriogit\\proyectomvc\\proyectomvc\\webaplicacionmvc\\webaplicacionmvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C786E770-DBA7-433F-8023-8A5F7AB4A9A3}|WebAplicacionMVC\\WebAplicacionMVC.csproj|solutionrelative:webaplicacionmvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebAplicacionMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T20:20:47.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
               "ToolTip": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
               "RelativeToolTip": "WebAplicacionMVC\\Views\\Inicio\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T20:03:58.729Z",
+              "WhenOpened": "2024-11-08T05:55:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "WebAplicacionMVC\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "WebAplicacionMVC\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T05:52:52.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "WebAplicacionMVC\\Controllers\\InicioController.cs",
+              "ToolTip": "J:\\RepositorioGIT\\ProyectoMVC\\ProyectoMVC\\WebAplicacionMVC\\WebAplicacionMVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "WebAplicacionMVC\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAYwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:53:34.587Z",
               "EditorCaption": ""
             }
           ]
